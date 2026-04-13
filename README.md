@@ -23,10 +23,8 @@
 ## 🌐 Connect With Me:
 
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/p.lvii.art)
-![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)
-![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?style=for-the-badge&logo=Pinterest&logoColor=white)
-![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white)
-![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white)](https://www.facebook.com/p.lvii.art)
+[![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)](https://www.youtube.com/@PallaviMaurya-z4x)
 ---
 
 ## 💻 Tech Stack:
@@ -57,12 +55,27 @@
 
 ---
 
-## 📊 GitHub Stats:
+## 📊 GitHub Activity Graph:
+![](https://github-readme-activity-graph.vercel.app/graph?username=pallavimaurya878-creator&theme=react-dark&bg_color=00000000&hide_border=true)
 
 
 ---
+
+### 🔝 Top Contributed Repos
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=pallavimaurya878-creator&theme=radical&bg_color=00000000)
+![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=pallavimaurya878-creator&theme=radical&bg_color=00000000)
+![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=pallavimaurya878-creator&theme=radical&bg_color=00000000)
+
+
+
+### 🐍 Contribution Snake
+![Snake animation](https://raw.githubusercontent.com/pallavimaurya878-creator/pallavimaurya878-creator/output/github-contribution-grid-snake-dark.svg)
 
 ## ✨ Quote:
-> "Turning creativity into code and ideas into reality 💜"
+
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ---
+[![](https://visitcount.itsvg.in/api?id=pallavimaurya878-creator&icon=0&color=6)](https://visitcount.itsvg.in)
+---
+
